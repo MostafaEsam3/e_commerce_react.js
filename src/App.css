@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+  background-color: #F6F6F6;
+  font-family: 'SF Pro Display';
+  width: 268px;
+  color: red;
+  font-size: 16px;
+  height: 432px;
+  border-radius: 9px;
 }
 
 .App-logo {
@@ -36,3 +43,6 @@
     transform: rotate(360deg);
   }
 }
+
+  
+ 
